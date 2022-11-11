@@ -8,3 +8,4 @@ body{background-color: rgb(138, 212, 163);}
     margin: 20px;
     padding: 20px;
   }
+p{-moz-outline-radius-bottomleft: ;}
